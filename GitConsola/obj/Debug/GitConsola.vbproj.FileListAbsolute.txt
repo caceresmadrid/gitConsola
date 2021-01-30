@@ -1,1 +1,10 @@
 c:\users\caceresmadrid\documents\visual studio 2015\Projects\GitConsola\GitConsola\bin\Debug\GitConsola.exe.config
+C:\Users\CaceresMadrid\documents\visual studio 2015\Projects\GitConsola\GitConsola\bin\Debug\GitConsola.exe
+C:\Users\CaceresMadrid\documents\visual studio 2015\Projects\GitConsola\GitConsola\bin\Debug\GitConsola.pdb
+C:\Users\CaceresMadrid\documents\visual studio 2015\Projects\GitConsola\GitConsola\bin\Debug\GitConsola.xml
+C:\Users\CaceresMadrid\documents\visual studio 2015\Projects\GitConsola\GitConsola\obj\Debug\GitConsola.vbprojResolveAssemblyReference.cache
+C:\Users\CaceresMadrid\documents\visual studio 2015\Projects\GitConsola\GitConsola\obj\Debug\GitConsola.Resources.resources
+C:\Users\CaceresMadrid\documents\visual studio 2015\Projects\GitConsola\GitConsola\obj\Debug\GitConsola.vbproj.GenerateResource.Cache
+C:\Users\CaceresMadrid\documents\visual studio 2015\Projects\GitConsola\GitConsola\obj\Debug\GitConsola.exe
+C:\Users\CaceresMadrid\documents\visual studio 2015\Projects\GitConsola\GitConsola\obj\Debug\GitConsola.xml
+C:\Users\CaceresMadrid\documents\visual studio 2015\Projects\GitConsola\GitConsola\obj\Debug\GitConsola.pdb
